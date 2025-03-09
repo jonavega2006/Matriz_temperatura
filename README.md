@@ -18,7 +18,8 @@ Clona este repositorio en tu sistema:
 
 ```sh
 git clone https://github.com/jonavega2006/Matriz_temperatura.git
-cd Matriz_temperatura.py
+cd Matriz_temperatura
+python3 Matriz-temperatura.py
 #uso
 ```
 
