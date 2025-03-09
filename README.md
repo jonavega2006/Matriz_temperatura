@@ -20,9 +20,10 @@ Clona este repositorio en tu sistema:
 git clone https://github.com/jonavega2006/Matriz_temperatura.git
 cd Matriz_temperatura
 python3 Matriz-temperatura.py
-#uso
+
 ```
 ```sh
+Uso
 Ejecuta el script en tu terminal:
 
 python matriz_temperatura.py
