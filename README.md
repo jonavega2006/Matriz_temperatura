@@ -16,10 +16,10 @@ Este proyecto genera y muestra temperaturas aleatorias para diferentes ciudades 
 
 Clona este repositorio en tu sistema:
 
-```sh
+```
 git clone https://github.com/jonavega2006/Matriz_temperatura.git
-cd Matriz_temperatura
-
+cd Matriz_temperatura.py
+```
 Uso
 
 Ejecuta el script en tu terminal:
