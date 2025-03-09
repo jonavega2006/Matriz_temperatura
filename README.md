@@ -22,7 +22,7 @@ cd Matriz_temperatura
 python3 Matriz-temperatura.py
 #uso
 ```
-
+```sh
 Ejecuta el script en tu terminal:
 
 python matriz_temperatura.py
